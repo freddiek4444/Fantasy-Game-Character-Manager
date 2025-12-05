@@ -1,8 +1,6 @@
 # Fantasy-Game-Character-Manager
 A fantasy game management application built as my final project for a software development assignment, where the user can manage players/characters.
 
-# Fantasy Game Character Manager - Version 8 (Modular Design)
-
 A professionally structured character management system featuring clean modular architecture with separated concerns and excellent maintainability.
 
 ## Features
